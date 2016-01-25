@@ -1,0 +1,9 @@
+Package: beamerthemes
+Title: Sample for using custom beamer themes
+Version: 0.0.0.9000
+Authors@R: person("Steph", "Locke", email = "stephanie.g.locke@gmail.com", role = c("aut", "cre"))
+Description: This is a MRE of getting a custom beamer presentation going
+Depends: R (>= 3.2.3)
+License: MIT
+LazyData: true
+Imports: rmarkdown
